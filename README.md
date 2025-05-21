@@ -1,1 +1,2 @@
 # odin-landing-page
+In this project I used all the knowledge and techniques gained up to this point in the odin project to create a landing page. This project extensively uses flexbox to create sections, align elements, and allow elements to wrap on window size changes. In the next projects, I want to make more commits. I got carried away writing the project that I forgot to make any commits, lol.
